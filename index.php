@@ -6,7 +6,7 @@ $pageTitle = "Welcome to My PHP Page";
 $currentYear = date("Y");
 $userLoggedIn = true;
 $hobbies = ["Coding", "Reading", "Gaming", "Hiking"];
-
+// changes1234
 ?>
 <!DOCTYPE html>
 <html lang="en">
