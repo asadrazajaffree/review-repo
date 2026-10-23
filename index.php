@@ -1,6 +1,6 @@
 <?php
 // Save this file as "index.php"
-
+// check it out
 // 1. Define Variables
 $pageTitle = "Welcome to My PHP Page";
 $currentYear = date("Y");
